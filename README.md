@@ -20,3 +20,5 @@
 - I have created a few Opera GX mods ^^
 
 ----
+
+> Rejoins la [Commu Scratch Francophone](https://discord.gg/UnjbyEEVak) !
