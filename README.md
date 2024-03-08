@@ -17,8 +17,10 @@
 - **Bescherelle**.
 
 ### What I Have Done Here 
-- I have created a few Opera GX mods ^^
+- I have created a few Opera GX mods.
 
 ----
 
-> Rejoins la [Commu Scratch Francophone](https://discord.gg/UnjbyEEVak) !
+Rejoins la [Commu Scratch Francophone](https://discord.gg/UnjbyEEVak) !
+
+----
