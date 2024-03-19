@@ -8,6 +8,7 @@
 
 - he/him
 - french, german
+- python `.py`, ruby `.rb`
 
 [See more…](https://scratch.mit.edu/projects/859566841/)
 
