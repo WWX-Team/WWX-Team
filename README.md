@@ -1,13 +1,12 @@
 # About Me
 
-- 👋 Hello, world ! I am [wilhelm43](https://scratch.mit.edu/users/wilhelm43/) ; an 🇫🇷 french __scratcher__
-- 🏅 One of the [most famous](https://scratchstats.com/wilhelm43) scratcher in France
-- 📑 One of the [most active](https://postpercent.rirurin.com/users/wilhelm43) scratcher in France
+- 👋 Hello, world ! I am [wilhelm43](https://scratch.mit.edu/users/wilhelm43/) ; an 🇫🇷 french and 🇩🇪 german __scratcher__
+- 🏠 From Toulouse (*Chocolatine !*)
 
 ## Infos
 
 - he/him
-- french, german
+- Bismarck_WB | BismarckWB | wilhelmbismarck |
 - python `.py`, ruby `.rb`
 
 [See more…](https://scratch.mit.edu/projects/859566841/)
@@ -15,11 +14,8 @@
 ## On Github
 
 ### What I Am Working On
-- **Bescherelle**.
+- \[🇫🇷] **Le Petit Pascal** : Conjugeur semi-automatique.
 - **IMW**.
-
-### What I Have Done Here 
-- I have created a few Opera GX mods.
 
 ----
 
