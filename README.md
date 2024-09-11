@@ -7,15 +7,9 @@
 
 - he/him
 - Bismarck_WB | BismarckWB | wilhelmbismarck |
-- python `.py`, ruby `.rb`
+- python `.py`, ruby `.rb`, javascript `.js`
 
 [See more…](https://scratch.mit.edu/projects/859566841/)
-
-## On Github
-
-### What I Am Working On
-- \[🇫🇷] **Le Petit Pascal** : Conjugeur semi-automatique.
-- **IMW**.
 
 ----
 
