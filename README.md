@@ -21,3 +21,9 @@ Mes francophones adorés, je vous [invite à rejoindre](https://discord.gg/Unjby
 ----
 
 <img src="w43banner.png" />
+
+----
+
+<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&username=wilhelmbismarck&theme=github_dark" title="Most used langs"></a>
+
+----
