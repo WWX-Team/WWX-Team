@@ -6,7 +6,7 @@ I started programming at the age of 7 with [Scratch](https://scratch.mit.edu/) 2
 I'm a proud Toulousian, especially when I have to say *Chocolatine*.
 
 - Also known as `Bismarck_WB` | `BismarckWB` | `wilhelmbismarck`
-- Write in `python` | `ruby` | `javascript`
+- Write in `python` | `ruby` | `c` | `java`
 
 [See more](https://scratch.mit.edu/projects/859566841/) about me.
 
